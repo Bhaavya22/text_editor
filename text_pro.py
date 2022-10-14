@@ -13,7 +13,7 @@ print(sentene_maker("how are you"))
 '''
 result=[]
 while True:
-     
+     print("when you are done write \end")
      user_input = input("Say something: ")
      if user_input == "\end" :
          break
